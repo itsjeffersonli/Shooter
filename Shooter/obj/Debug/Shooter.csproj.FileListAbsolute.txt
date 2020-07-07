@@ -1,0 +1,10 @@
+C:\Users\Jeff\source\repos\Shooter\Shooter\bin\Debug\Shooter.exe.config
+C:\Users\Jeff\source\repos\Shooter\Shooter\bin\Debug\Shooter.exe
+C:\Users\Jeff\source\repos\Shooter\Shooter\bin\Debug\Shooter.pdb
+C:\Users\Jeff\source\repos\Shooter\Shooter\obj\Debug\Shooter.csprojAssemblyReference.cache
+C:\Users\Jeff\source\repos\Shooter\Shooter\obj\Debug\Shooter.Form1.resources
+C:\Users\Jeff\source\repos\Shooter\Shooter\obj\Debug\Shooter.Properties.Resources.resources
+C:\Users\Jeff\source\repos\Shooter\Shooter\obj\Debug\Shooter.csproj.GenerateResource.cache
+C:\Users\Jeff\source\repos\Shooter\Shooter\obj\Debug\Shooter.exe
+C:\Users\Jeff\source\repos\Shooter\Shooter\obj\Debug\Shooter.pdb
+C:\Users\Jeff\source\repos\Shooter\Shooter\obj\Debug\Shooter.csproj.CoreCompileInputs.cache
